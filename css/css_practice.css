@@ -1,0 +1,101 @@
+.external {
+  background-color: red;
+  color: white;
+  font-size: 32px;
+  text-align: center;
+  font-weight: bold;
+}
+.para {
+  background-color: pink;
+  color: black;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.para.other {
+  font-size: 24px;
+}
+#one {
+  color: blue;
+  font-size: 36px;
+}
+#two {
+  background-color: lightgreen;
+  color: black;
+  font-size: 24px;
+  font-weight: 700;
+}
+#butone {
+  background-color: black;
+  color: white;
+}
+#buttwo {
+  background-color: yellow;
+  color: black;
+}
+#butone, #buttwo {
+  font-size: 28px;
+  font-family: Helvetica, Times New Roman, sans-serif;
+}
+.avatar.proportioned {
+  width: 300px;
+  height: auto;
+}
+.avatar.distorted {
+  width: 200px;
+  height: 400px;
+}
+div p {
+  background-color: yellow;
+  color: red;
+  font-size: 20px;
+  text-align: center;
+}
+.text {
+  font-size: 48px;
+}
+.text.three {
+  font-size: 20px;
+}
+
+
+body{
+  font-family:Arial, Helvetica, sans-serif
+}
+
+.paras,
+.small-para {
+  color: hsl(0, 0%, 0%);
+  font-weight: 800;
+}
+
+.paras {
+  font-size: 22px;
+}
+
+.small-para {
+  font-size: 14px;
+  font-weight: 800;
+}
+
+#confirm-button {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
+
+.button {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  font-size: 20px;
+}
+
+.texts.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
+}
+
+div.texts {
+  color: rgb(0, 0, 0);
+  font-size: 22px;
+  font-weight: 100;
+}
